@@ -38,7 +38,7 @@
 
 ---
 <div align="center">
-  ### 📊 My GitHub Stats
+  <h3>📊 My GitHub Stats</h3>
 </div>
 <div align="center">
 <table>
