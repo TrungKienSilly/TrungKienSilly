@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyễn Trung Kiên 👋
 
-### I'm not just a developer; I'm a full-time bug creator and part-time bug fixer.
+### A passionate Frontend Developer from Ho Chi Minh City, Vietnam.
 
 ---
 
