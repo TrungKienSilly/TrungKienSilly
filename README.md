@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on exciting web development projects.
 - 🌱 I’m passionate about building useful applications with technologies like **PHP, SCSS, JavaScript, and TypeScript**.
 - 👯 I’m looking to collaborate on open-source projects or interesting web applications.
-- 📫 How to reach me: **[your-email@example.com]** (Hãy thay bằng email của bạn)
+- 📫 How to reach me: kiennguyen300803@gmail.com
 - 🏢 Living in Ho Chi Minh City, Vietnam.
 
 ---
