@@ -1,10 +1,11 @@
+<div align="center">
 # Hi there, I'm Nguyen Trung Kien 👋
 
 ### A passionate Frontend Developer from Ho Chi Minh City, Vietnam.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+bring+ideas+to+life+with+code;Have+an+idea%3F+Let's+talk!;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
 ---
-
+</div>
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on exciting web development projects.
@@ -36,9 +37,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
+<div align="center">
 ### 📊 My GitHub Stats
 
 [![TrungKienSilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungkienSilly&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungkienSilly&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
