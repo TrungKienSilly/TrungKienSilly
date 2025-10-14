@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyễn Trung Kiên 👋
+# Hi there, I'm Nguyen Trung Kien 👋
 
 ### A passionate Frontend Developer from Ho Chi Minh City, Vietnam.
 
