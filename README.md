@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+bring+ideas+to+life+with+code;Have+an+idea%3F+Let's+talk!;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
 ---
 </div>
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on exciting web development projects.
 - 🌱 I’m passionate about building useful applications with technologies like **PHP, SCSS, JavaScript, and TypeScript**.
