@@ -38,9 +38,21 @@
 
 ---
 <div align="center">
-<h3>My GitHub Stats</h3>
-
-[![TrungKienSilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungkienSilly&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungkienSilly&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ### 📊 My GitHub Stats
+</div>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=trungkienSilly&show_icons=true&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungkienSilly&layout=compact&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
