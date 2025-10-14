@@ -1,5 +1,5 @@
 <div align="center">
-<b>Hi there, I'm Nguyen Trung Kien 👋</b> 
+<h1><b>Hi there, I'm Nguyen Trung Kien 👋</b> </h1>
 
 ### A passionate Frontend Developer from Ho Chi Minh City, Vietnam.
 
