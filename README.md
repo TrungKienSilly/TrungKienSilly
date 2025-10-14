@@ -6,13 +6,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+bring+ideas+to+life+with+code;Have+an+idea%3F+Let's+talk!;Let's+create+something+amazing+together!" alt="Typing SVG" /></a>
 ---
 </div>
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 
-- 🔭 I’m currently working on exciting web development projects.
-- 🌱 I’m passionate about building useful applications with technologies like **PHP, SCSS, JavaScript, and TypeScript**.
-- 👯 I’m looking to collaborate on open-source projects or interesting web applications.
-- 📫 How to reach me: kiennguyen300803@gmail.com
-- 🏢 Living in Ho Chi Minh City, Vietnam.
+- I’m currently working on exciting web development projects.
+- I’m passionate about building useful applications with technologies like **PHP, SCSS, JavaScript, and TypeScript**.
+- I’m looking to collaborate on open-source projects or interesting web applications.
+- How to reach me: kiennguyen300803@gmail.com
+- Living in Ho Chi Minh City, Vietnam.
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 <div align="center">
-### 📊 My GitHub Stats
+<h3>My GitHub Stats</h3>
 
 [![TrungKienSilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungkienSilly&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
