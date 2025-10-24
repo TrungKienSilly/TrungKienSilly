@@ -45,17 +45,17 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=trungkienSilly&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TÊN_GITHUB_CỦA_BẠN&show_icons=true&theme=tokyonight" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungkienSilly&layout=pie&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TÊN_GITHUB_CỦA_BẠN&layout=pie&theme=tokyonight" />
       </a>
     </td>
   </tr>
 </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungKienSilly&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TÊN_GITHUB_CỦA_BẠN&theme=react-dark" />
 </div>
