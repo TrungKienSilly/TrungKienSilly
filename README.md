@@ -45,12 +45,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=dark&hide_border=true&cache_bust=1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&layout=pie&theme=tokyonight&hide_border=true&cache_bust=1" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&layout=pie&theme=dark&hide_border=true&cache_bust=1" />
       </a>
     </td>
   </tr>
