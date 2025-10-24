@@ -38,24 +38,24 @@
 
 ---
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
+  <h3>📊 TrungKienSilly's GitHub Stats</h3>
 </div>
 <div align="center">
 <table>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&layout=pie&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&layout=pie&theme=tokyonight&hide_border=true&cache_bust=1" />
       </a>
     </td>
   </tr>
 </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungKienSilly&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrungKienSilly&theme=react-dark&cache_bust=1" />
 </div>
