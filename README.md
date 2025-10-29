@@ -16,7 +16,7 @@
 
 </div>
 
-### 👨‍💻 About Me
+### About Me
 
 - I’m currently working on exciting web development projects.
 - I’m passionate about building useful applications with technologies like **PHP, SCSS, JavaScript, and TypeScript**.
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 My Tech Stack
+### My Tech Stack
 
 <table align="center" width="100%">
   <tr>
@@ -64,23 +64,19 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/static/gif/primary-divider.gif" width="100%" />
 
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
+  <h3> My GitHub Stats</h3>
 </div>
 
 <div align="center">
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=react-dark&hide_border=true&cache_seconds=3600" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&layout=pie&theme=react-dark&hide_border=true&cache_seconds=3600" />
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=TrungKienSilly&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
+    </td>
+    <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungKienSilly&theme=tokyonight&hide_border=true&cache_bust=1" />
+    </td>
+  </tr>
 </table>
 </div>
 
