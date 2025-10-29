@@ -64,6 +64,18 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/static/gif/primary-divider.gif" width="100%" />
 
 <div align="center">
+  <h3>🎬 My YouTube Projects</h3> 
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=sL7plbsooXg">
+      <img src="https://img.youtube.com/vi/sL7plbsooXg/hqdefault.jpg" alt="Video 1" width="30%" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=RIi8cj8enD0">
+      <img src="https://img.youtube.com/vi/RIi8cj8enD0/hqdefault.jpg" alt="Video 2" width="30%" />
+    </a>
+    </p>
+</div>
+
+<div align="center">
   <h3> My GitHub Stats</h3>
 </div>
 
